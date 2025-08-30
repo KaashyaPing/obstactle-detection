@@ -71,5 +71,5 @@ When the obstacle is placed at a distance less than 10cm, then the **Red LED** i
 
 ## 🧑‍💻 Author
 **Kaashyap Sai Varma Bhupathiraju**  
-ECE Enthusiast | Embedded Systems | Arduino & IoT  
+ECE Enthusiast | Embedded Systems | Arduino 
 
